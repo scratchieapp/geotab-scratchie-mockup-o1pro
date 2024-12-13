@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: #fafafa;
+    color: #333;
+  }
+  
+  table {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+  }
